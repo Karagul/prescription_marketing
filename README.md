@@ -1,0 +1,1 @@
+This is a report based on prescription data on practice level in England. Spark was used to read GB-level sized data and SparkSQL and Python's Pandas were used in the analysis. A k-means clustering method was used in classifying the data. 
